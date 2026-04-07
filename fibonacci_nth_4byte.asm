@@ -1,9 +1,7 @@
 **************************************
 *
-* Name:Collin Folkmann
-* ID:16331039
-* Date:3/6/2025
-* Lab3
+* Collin Folkmann
+* A3
 *
 * Program description:This program calculates the Nth element of 
 *			    the Fibonacci sequence as a 4-byte number.

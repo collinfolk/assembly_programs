@@ -1,9 +1,7 @@
 **************************************
 *
-* Name: Collin Folkmann
-* ID: 16331039
-* Date: 04/16/2025
-* Lab5
+* Collin Folkmann
+* A5
 *
 * Program description:
 * Program processes a table of 1-byte numbers, ending 

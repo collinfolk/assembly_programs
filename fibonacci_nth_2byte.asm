@@ -1,9 +1,7 @@
 **************************************
 *
-* Name:Collin Folkmann
-* ID:16331039
-* Date:2/24/2025
-* Lab2
+* Collin Folkmann
+* A2
 *
 * Program description:This program calculates the Nth Fibonacci number.
 * The value of N is provided as a constant between 1 and 255. The program

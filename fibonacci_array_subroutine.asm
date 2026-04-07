@@ -1,9 +1,7 @@
 **************************************
 *
-* Name:Collin Folkmann
-* ID:16331039
-* Date:4/1/2025
-* Lab4
+* Collin Folkmann
+* A4
 *
 * Program description:
 * This program reads the byte values from the array NARR.
